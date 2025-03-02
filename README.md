@@ -7,6 +7,10 @@ The SSSSD was made to download songs and that, the setup.py may have problems so
 - Single Tracks
 - Playlists
 - Albums
+- Lan use, or even hosting it on the internet
+
+Local 127.0.0.0
+Lan 0.0.0.0 (Your machine's local ip for others to access it, also works over tailscale. wireguard and whatherver else)
 
 Yes, has web gui.
 Next updates to fix the rest.
