@@ -15,3 +15,6 @@ Accuracy 90% # (MAYBE EVEN 80%).
 
 Download FFMPEG from https://github.com/Tyrrrz/FFmpegBin/tree/master?tab=readme-ov-file 
 And place the ffmpeg.exe, ffplay.exe and ffprobe.exe in the folder ast (idk i just gave it that name)
+
+
+I made it as a self hosting alternative for these service, maybe next time i make it as a docker container. (After i get to know how lmao)
