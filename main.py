@@ -286,9 +286,7 @@ def download():
 
 
 
-#Paste your id and that here
-
-
+#Paste your id and secret from the app you created from spotify developer portal
 
 
 
