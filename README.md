@@ -1,7 +1,7 @@
 # SilverSniperSpotifySongDownloader-ServerEdition
 
 The SSSSD was made to download songs and that, the setup.py may have problems sometimes, but it overall works
-You need to create a spotify app https://developer.spotify.com/ .
+You need to create a spotify app https://developer.spotify.com/ ,after you need to place the client_id and client_secret on the line 300 and 301.
 
 # It supports
 - Single Tracks
